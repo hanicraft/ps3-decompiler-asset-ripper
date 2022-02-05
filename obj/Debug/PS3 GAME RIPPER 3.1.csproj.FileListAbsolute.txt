@@ -1,0 +1,11 @@
+D:\ps3 decompiler\bin\Debug\PS3 GAME RIPPER 3.0.exe
+D:\ps3 decompiler\bin\Debug\PS3 GAME RIPPER 3.0.pdb
+D:\ps3 decompiler\obj\Debug\PS3 GAME RIPPER 3.1.csproj.AssemblyReference.cache
+D:\ps3 decompiler\obj\Debug\UMD_Ripper.frm_acercade.resources
+D:\ps3 decompiler\obj\Debug\UMD_Ripper.frmIdiomas.resources
+D:\ps3 decompiler\obj\Debug\UMD_Ripper.frm_presentacion.resources
+D:\ps3 decompiler\obj\Debug\UMD_Ripper.Resources.resources
+D:\ps3 decompiler\obj\Debug\PS3 GAME RIPPER 3.1.csproj.GenerateResource.cache
+D:\ps3 decompiler\obj\Debug\PS3 GAME RIPPER 3.1.csproj.CoreCompileInputs.cache
+D:\ps3 decompiler\obj\Debug\PS3 GAME RIPPER 3.0.exe
+D:\ps3 decompiler\obj\Debug\PS3 GAME RIPPER 3.0.pdb
